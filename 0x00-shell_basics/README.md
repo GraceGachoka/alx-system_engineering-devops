@@ -1,1 +1,1 @@
-Files
+First magic file
