@@ -1,1 +1,1 @@
-new superuser
+Shell variable
